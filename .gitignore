@@ -1,0 +1,4 @@
+.idea/
+redis-data-distribution/target/
+redis-data-distribution/.idea
+
